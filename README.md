@@ -1,8 +1,8 @@
 ![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(2).png)
 
-<h1 align="center">Hi 👋, I'm Blessing Fawole</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-<img  scr="https://github.com/bless643/bless643/blob/main/coding.gif" width="400" align="right">
+<h1 align="center">Welcome to my Tech Space</h1>
+<h3 align="center">I'm a passionate full-stack developer</h3>
+<img  scr="https://github.com/bless643/bless643/blob/main/coding.gif" width="250" align="right">
 
 <p align="left"> <img src="https://github.com/bless643/bless643/blob/main/original-1de7a34e8dfb6d1b9723e77458786c81.gif" alt="bless634" /> </p>
 
