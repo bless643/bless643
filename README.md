@@ -1,3 +1,5 @@
+![Design and Development]()
+
 <h1 align="center">Hi 👋, I'm Blessing Fawole</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" scr="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
