@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Blessing Fawole</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img  scr="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="400">
+<img  scr="https://github.com/bless643/bless643/blob/main/coding.gif" width="400" align="right">
 
 <p align="left"> <img src="https://github.com/bless643/bless643/blob/main/original-1de7a34e8dfb6d1b9723e77458786c81.gif" alt="bless634" /> </p>
 
