@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(2).png)
 
-<h1 align="center">Welcome to my Tech Space</h1>
-<h3 align="center">I'm a passionate full-stack developer</h3>
+<h1 align="center">Welcome to my space 🚀🌐</h1>
+<h3 align="center">I'm a passionate full-stack developer🧑🏽‍💻</h3>
 <img  scr="https://github.com/bless643/bless643/blob/main/coding.gif" width="250" align="right">
 
 <p align="left"> <img src="https://github.com/bless643/bless643/blob/main/coding.gif" alt="bless634" width="250" align="right"/> </p>
