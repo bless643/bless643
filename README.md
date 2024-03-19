@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(2).png)
+![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Welcome to my space 🚀🌐</h1>
 <h3 align="center">I'm a passionate full-stack developer🧑🏽‍💻</h3>
