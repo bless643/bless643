@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Blessing Fawole</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="right" alt="Coding" width="400" scr="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img  scr="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bless634&label=Profile%20views&color=0e75b6&style=flat" alt="bless634" /> </p>
 
