@@ -1,4 +1,4 @@
-![Design and Development]()
+![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Blessing Fawole</h1>
 <h3 align="center">A passionate full-stack developer</h3>
