@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django, Flask**
 
-- 👨‍💻 Want to know more about me? 👉 [My Website](bless643.github.io/bless)
+- 👨‍💻 Want to know more about me? 👇 [My Website](bless643.github.io/bless)
 
 - 💬 Ask me about **Python, JavaScript, Node.js**
 
