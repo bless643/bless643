@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Django, Flask**
 
-- 👨‍💻 All of my projects are available at [bless643.github.io/my-portfolio](bless643.github.io/my-portfolio)
+- 👨‍💻 Want to know more about me? 👉 [My Website](bless643.github.io/bless)
 
 - 💬 Ask me about **Python, JavaScript, Node.js**
 
 - 📫 How to reach me **fawolebless1@hotmail.com**
 
-- 📄 Know about my experience [fawoleblessing.com](fawoleblessing.com)
+- 📄 Know about my experience [My Projects](bless643.github.io/bless)
 
 - ⚡ Fun fact **The first computer programmer was a woman named Ada Lovelace, who wrote the world's first machine algorithm in the mid-1800s.**
 
