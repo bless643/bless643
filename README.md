@@ -8,15 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Flask**
 
-- 👨‍💻 Want to know more about me? 👇 [My Website](https://bless643.github.io/bless)
-
-- 💬 Ask me about **Python, JavaScript, Node.js**
+- 💬 Ask me about **Python, Django, DjangoRestFramework, AWS, MySQL, Tikinter, Git, Github**
 
 - 📫 How to reach me **fawolebless1@hotmail.com**
 
-- 📄 Know about my experience [My Projects](https://bless643.github.io/bless)
 
 - ⚡ Fun fact **The first computer programmer was a woman named Ada Lovelace, who wrote the world's first machine algorithm in the mid-1800s.**
 
