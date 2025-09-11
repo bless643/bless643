@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 💬 Ask me about **Python, Django, DjangoRestFramework, AWS, MySQL, Tikinter, Git, Github**
+- 💬 Ask me about **Python, Django, DjangoRestFramework, AI, AWS, MySQL, Tikinter, Git, Github**
 
 - 📫 How to reach me **fawolebless1@hotmail.com**
 
