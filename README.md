@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Welcome to my space 🚀🌐</h1>
-<h3 align="center">I'm passinate about data science/machine learning🧑🏽‍💻</h3>
+<h3 align="center">I'm passionate about data science/machine learning🧑🏽‍💻</h3>
 <img  scr="https://github.com/bless643/bless643/blob/main/coding.gif" width="250" align="right">
 
 <p align="left"> <img src="https://github.com/bless643/bless643/blob/main/coding.gif" alt="bless634" width="250" align="right"/> </p>
