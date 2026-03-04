@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(1).png)
 
 <h1 align="center"> Building AI-powered backend systems with real-world impact. 🚀🌐</h1>
-<h3 align="center">❤️ I'm Passionate About:
+<h3 align="center">## ❤️ I'm Passionate About
 - Building AI tools that reduce manual work and save time  
 - Creating practical applications that improve user experience  
 - Exploring LLMs and NLP to solve real-world problems  
@@ -18,7 +18,7 @@
 - LLM integrations & NLP workflows  
 - Backend development with Python, FastAPI & Django  
 - Cloud deployment (AWS EC2) & Docker  
-- Data pipelines and automation**
+- Data pipelines and automation
 
 - 📫 How to reach me **fawolebless1@hotmail.com**
 
