@@ -6,9 +6,9 @@
 - Creating practical applications that improve user experience
 - Exploring LLMs and NLP to solve real-world problems
 - Writing clean, maintainable backend code for scalable systems🧑🏽‍💻</h3>
-<img  scr="https://github.com/bless643/bless643/blob/main/coding.gif" width="500" align="right">
+<img  scr="https://github.com/bless643/bless643/blob/main/coding.gif" width="1000" align="right">
 
-<p align="left"> <img src="https://github.com/bless643/bless643/blob/main/coding.gif" alt="bless634" width="500" align="right"/> </p>
+<p align="left"> <img src="https://github.com/bless643/bless643/blob/main/coding.gif" alt="bless634" width="1000" align="right"/> </p>
 
 
 
