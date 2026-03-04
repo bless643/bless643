@@ -1,5 +1,5 @@
 <img src="github-header-image%20(1).png" width="800" alt="GitHub Header">
-
+<img src="github-header-Your paragraph text (2).png" width="800" alt="GitHub Header">
 
 <h1 align="center"> Building AI-powered backend systems with real-world impact. 🚀🌐</h1>
 <h3 align="center"> I'm Passionate About
