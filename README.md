@@ -1,5 +1,6 @@
 
 <img src="github-header-image%20(1).png" width="800" alt="GitHub Header">
+convert "github-header-image (1).png" -gravity East -chop 50%x0 "github-header-image (1).png"
 
 <h1 align="center"> Building AI-powered backend systems with real-world impact. 🚀🌐</h1>
 <h3 align="center"> I'm Passionate About
