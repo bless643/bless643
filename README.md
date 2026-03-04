@@ -1,4 +1,4 @@
-#![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(1).png)
+
 <img src="github-header-image%20(1).png" width="800" alt="GitHub Header">
 
 <h1 align="center"> Building AI-powered backend systems with real-world impact. 🚀🌐</h1>
