@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/bless643/bless643/blob/main/github-header-image%20(1).png)
 
 <h1 align="center"> Building AI-powered backend systems with real-world impact. 🚀🌐</h1>
-<h3 align="center">❤️ I'm Passionate About
+<h3 align="center">❤️ I'm Passionate About:
 - Building AI tools that reduce manual work and save time  
 - Creating practical applications that improve user experience  
 - Exploring LLMs and NLP to solve real-world problems  
@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 💬 Ask me about **💬 Ask Me About
+- 💬 Ask me about:
 - Machine Learning & AI models  
 - LLM integrations & NLP workflows  
 - Backend development with Python, FastAPI & Django  
