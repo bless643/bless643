@@ -1,5 +1,5 @@
-<img src="github-header-image%20(1).png" width="800" alt="GitHub Header">
 
+<img src="github-header-Your paragraph text (2).png" width="800" alt="GitHub Header">
 
 
 
