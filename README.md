@@ -12,9 +12,7 @@
 <p align="left"> <img src="https://github.com/bless643/bless643/blob/main/coding.gif" alt="bless634" width="250" align="right"/> </p>
 
 
-
-
-- 💬 Ask me about:
+💬 Ask me about:
 - Machine Learning & AI models  
 - LLM integrations & NLP workflows  
 - Backend development with Python, FastAPI & Django  
@@ -25,7 +23,6 @@
 
 
 - ⚡ Fun fact **The first computer programmer was a woman named Ada Lovelace, who wrote the world's first machine algorithm in the mid-1800s.**
-
 
 
 
